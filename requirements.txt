@@ -1,0 +1,11 @@
+streamlit
+pickle-mixin
+sentence-transformers
+torch
+pandas
+pathlib
+arxiv
+tqdm
+matplotlib
+seaborn
+nltk
